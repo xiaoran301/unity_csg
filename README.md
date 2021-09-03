@@ -1,2 +1,2 @@
 # unity_csg
-custom solid geometry
+constructive solid geometry
